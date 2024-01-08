@@ -1,3 +1,6 @@
+package GeneralQuestions;
+
+
 public class Qn5 extends Qn5_Parent {
 
     //Java Program to Show Inheritance in Class

@@ -1,3 +1,6 @@
+package GeneralQuestions;
+
+
 abstract class Qn1_Abstract {
 
 

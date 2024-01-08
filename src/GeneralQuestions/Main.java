@@ -1,6 +1,18 @@
+package GeneralQuestions;
 
 public class Main {
     public static void main(String[] args) {
+            Qn1 qn1 = new Qn1(); // Java Program to Create Abstract Class 
+
+
+            Qn2 qn2 =Qn2.getInstance();//Java Program to Create Singleton Class 
+            Qn3 qn3 = new Qn3(); // Java Program to Create an Interface 
+
+
+            Qn4 qn4= new Qn4(); //Java Program to Show Encapsulation in Class - binding of memeber variables and member functions 
+
+
+
 
             Qn5 qn5 = new Qn5(); //Java Program to Show Inheritance in Class
             Qn6 qn6 = new Qn6(); //Java Program to Show Abstraction in Class
@@ -12,9 +24,9 @@ public class Main {
             Qn8 qn8_2 = new Qn8(2.5f,3.5f);//Java Program to Show Polymorphism in Class 
             
 
-            Qn9 qn9 = new Qn9();
-            qn9.add(1,2);
-            qn9.add(1.5f,2.5f);
+            Qn9 qn9 = new Qn9();//Java Program to Show Overloading of Methods in Class 
+            qn9.add(1,2);//Java Program to Show Overloading of Methods in Class 
+            qn9.add(1.5f,2.5f);//Java Program to Show Overloading of Methods in Class 
 
             Qn10 qn10 = new Qn10();
             qn10.sayHello(); //Java Program to Show Overriding of Methods in Classes .

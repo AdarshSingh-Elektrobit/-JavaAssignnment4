@@ -1,3 +1,5 @@
+package GeneralQuestions;
+
 public class Qn10 extends Qn10_parentClass {
 
     

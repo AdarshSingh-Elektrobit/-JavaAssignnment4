@@ -1,3 +1,6 @@
+package GeneralQuestions;
+
+
 abstract class Qn6_abstract{
     abstract protected void sayHello(); // abstract and protected, so user cant access it. But the child class can access this method. 
 

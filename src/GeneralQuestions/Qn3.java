@@ -1,3 +1,6 @@
+package GeneralQuestions;
+
+
 interface Qn3_interface{
     int a = 1;
     void sayHello();

@@ -1,3 +1,5 @@
+package GeneralQuestions;
+
 public class Qn12 {
 
     Qn12(){this.sayHello();}

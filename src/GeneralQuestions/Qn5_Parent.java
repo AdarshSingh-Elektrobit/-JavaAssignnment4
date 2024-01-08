@@ -1,3 +1,7 @@
+package GeneralQuestions;
+
+
+
 public class Qn5_Parent {
 
     int a =1;
